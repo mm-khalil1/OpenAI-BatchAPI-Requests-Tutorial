@@ -1,10 +1,10 @@
-# Batch Requests with OpenAI BatchAPI Service
+# Batch Prompts with OpenAI BatchAPI Service
 
 <p align="center">
   <img src="https://openai.com/favicon.ico" alt="OpenAI Logo">
 </p>
 
-This notebook demonstrates how to efficiently process multiple prompts at once using OpenAI's Batch API. Batch responses may take up to 24 hours.
+[This notebook](https://github.com/mm-khalil1/OpenAI-BatchAPI-Requests-Tutorial/blob/main/OpenAI%20BatchAPI%20Requests%20Tutorial.ipynb) demonstrates how to efficiently process multiple prompts at once using OpenAI's Batch API. Batch responses may take up to 24 hours.
 
 ## Summary
 
